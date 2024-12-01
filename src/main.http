@@ -1,0 +1,8 @@
+### 1. 根据关键词请求歌曲信息
+GET http://mobileservice.kugou.com/api/v3/lyric/search?version=9108&highlight=1&keyword=%E8%B0%81&plat=0&pagesize=10&area_code=1&page=1&with_res_tag=1
+
+### 2. 根据 1 中的歌曲信息，获取歌曲 hash 参数，查找该歌曲的歌词列表
+GET http://krcs.kugou.com/search?ver=1&man=yes&client=mobi&hash=053C2AE3ECEB9997A301F4ACA7961173
+
+### 根据 2 中的歌词列表，获取歌词的 id 和 accesskey 参数，并下载该歌词
+GET http://lyrics.kugou.com/download?ver=1&client=pc&id=26651978&accesskey=2C28BFF66EF8F9E4C3801B6E45EBA182&fmt=lrc&charset=utf8

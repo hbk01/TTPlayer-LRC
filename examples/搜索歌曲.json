@@ -1,0 +1,931 @@
+{
+    "data": {
+        "timestamp": 1732980372,
+        "info": [
+            {
+                "320hash": "038C192B0839E633A0BB0B1F853266CF",
+                "hash": "EED88CD344AED02DF1065C43664F868B",
+                "sqfilesize": 23437744,
+                "sqprivilege": 10,
+                "old_cpy": 0,
+                "bitrate": 128,
+                "ownercount": 16499,
+                "320filesize": 8525068,
+                "paytype": 3,
+                "filename": "玄觞 - 流年兮",
+                "failprocess": 4,
+                "singername": "玄觞",
+                "duration": 213,
+                "sqhash": "AA89E6CFACB2056E9052BDAA3DC54E3F",
+                "trans_param": {
+                    "display_rate": 0,
+                    "qualitymap": {
+                        "attr0": 925941813
+                    },
+                    "pay_block_tpl": 1,
+                    "cpy_grade": 5,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20180127\/20180127093016888474.jpg",
+                    "classmap": {
+                        "attr0": 234881032
+                    },
+                    "ipmap": {
+                        "attr0": 17280537088
+                    },
+                    "language": "国语",
+                    "cid": 137195143,
+                    "cpy_attr0": 8396800,
+                    "hash_multitrack": "D14244CC4A2083942E02E0AC8CDE1C96",
+                    "hash_offset": {
+                        "clip_hash": "E9037DB61AC564CEC53F3845A56A85F9",
+                        "start_byte": 0,
+                        "end_ms": 60000,
+                        "end_byte": 960115,
+                        "file_type": 0,
+                        "start_ms": 0,
+                        "offset_hash": "42A6B52156AAB972182997AC947D7C6D"
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "cpy_level": 1
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 106061583,
+                "filesize": 3410321,
+                "extname": "mp3",
+                "privilege": 8,
+                "album_id": "8547123",
+                "mvhash": "705C8331233C94BD1DB0EF10DB6BEE40",
+                "320privilege": 10,
+                "lyric": "玄觞 - 流年兮  作词：千月兔  作曲：潇梦临  编曲：潇梦临  古筝",
+                "type": "audio"
+            },
+            {
+                "320hash": "EEF48AB397FD63CAD5396493B2CAA2E4",
+                "hash": "728F707A92A0B5A9B449FF962169DEDD",
+                "sqfilesize": 19953903,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 293,
+                "320filesize": 8565499,
+                "paytype": 0,
+                "filename": "夏喘喘 - 流年兮",
+                "failprocess": 0,
+                "singername": "夏喘喘",
+                "duration": 214,
+                "sqhash": "96DAFFEC4331A4B98E1E2872CB9E856B",
+                "trans_param": {
+                    "cid": -1,
+                    "ogg_128_filesize": 2342816,
+                    "ogg_128_hash": "CD8D5010D0A83E9A137B4F51365219CF",
+                    "qualitymap": {
+                        "attr0": 16436
+                    },
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220315\/20220315000910263429.jpg",
+                    "classmap": {
+                        "attr0": 234881032
+                    },
+                    "language": "国语",
+                    "ipmap": {
+                        "attr0": 17213427712
+                    },
+                    "cpy_attr0": 8192,
+                    "hash_multitrack": "6F01FD1B652A62FAA1CEF7EE5A650D23",
+                    "pay_block_tpl": 1,
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 107589989,
+                "filesize": 3426205,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "17723522",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "她本霞光烈焰  被你伞上春雨浇灭  盲目寻觅的支微末节  此去经年得",
+                "type": "audio"
+            },
+            {
+                "320hash": "B4E76578E2F990965C4ACA14A26D6262",
+                "hash": "3AA95EA576098CD22A6D10EFB7A4E212",
+                "sqfilesize": 21418752,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 220,
+                "320filesize": 8521187,
+                "paytype": 0,
+                "filename": "白茶纪 - 流年兮",
+                "failprocess": 0,
+                "singername": "白茶纪",
+                "duration": 213,
+                "sqhash": "69F062608C6ED55B72153D65F1E7590B",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20201028\/20201028103805645270.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "cid": -1,
+                    "language": "国语",
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 116
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 278455087,
+                "filesize": 3408501,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "39760233",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "<em>流年兮<\/em>    她本霞光烈焰  被你伞上春雨浇灭  盲目寻觅的支微末节此去经年 得一见  她需风情万千  被你一眼烧化冰原  遍体鳞伤难揉进绵 软心尖 ",
+                "type": "audio"
+            },
+            {
+                "320hash": "9B6938C91ACA4ED12955D1A4FEED546C",
+                "hash": "DF3765D2D27F27B59CB90FEBE498F1E8",
+                "sqfilesize": 23604919,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 71,
+                "320filesize": 8527456,
+                "paytype": 0,
+                "filename": "吟夏 - 流年兮",
+                "failprocess": 0,
+                "singername": "吟夏",
+                "duration": 213,
+                "sqhash": "72C10D2AF2F18A827E69A9D20D8F815E",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "classmap": {
+                        "attr0": 234881032
+                    },
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20190403\/20190403102223346798.jpg",
+                    "language": "国语",
+                    "cid": -1,
+                    "cpy_attr0": 0,
+                    "hash_multitrack": "F0FFCD5C6EB94C3281A3D7D41395C46B",
+                    "qualitymap": {
+                        "attr0": 16436
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 163768118,
+                "filesize": 3411541,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "22949257",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "流年兮 - 吟夏  词：千月兔  曲：潇梦临  编曲：潇梦临  她本霞光",
+                "type": "audio"
+            },
+            {
+                "320hash": "4B497A5A9E329BEDE4FC4A2E86BF8185",
+                "hash": "AB6D4D691EB31A896088060E8874B685",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 48,
+                "320filesize": 11082712,
+                "paytype": 0,
+                "filename": "乐正绫、洛天依 - 莲舟曲",
+                "failprocess": 0,
+                "singername": "乐正绫、洛天依",
+                "duration": 277,
+                "sqhash": "",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "ipmap": {
+                        "attr0": 100663296
+                    },
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20190326\/20190326220210751396.jpg",
+                    "language": "国语",
+                    "cid": -1,
+                    "cpy_attr0": 0,
+                    "hash_multitrack": "9DAC14FB19DD7FC13073FFA5D01639B5",
+                    "qualitymap": {
+                        "attr0": 16404
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 88516453,
+                "filesize": 4438317,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "15564388",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "<em>流年兮<\/em>戚戚 辗转难息  烟柳兮离离 伊人自娉婷  望华灯初起 小酌共饮  舟上灯暖 共君度佳夕  亭畔明月寂 夜深几许  万家红丝穿 踟蹰情难叙 ",
+                "type": "audio"
+            },
+            {
+                "320hash": "",
+                "hash": "7385C0D0A02BEFB7741807198E8B3C1C",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 16,
+                "320filesize": 0,
+                "paytype": 0,
+                "filename": "玄觞 - 流年兮 (片段)",
+                "failprocess": 0,
+                "singername": "玄觞",
+                "duration": 60,
+                "sqhash": "",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "qualitymap": {
+                        "attr0": 4
+                    },
+                    "songname_suffix": "(片段)",
+                    "union_cover": "http:\/\/singerimg.kugou.com\/uploadpic\/softhead\/{size}\/20230606\/20230606100553600.jpg",
+                    "language": "国语",
+                    "cid": -1,
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 267534885,
+                "filesize": 960933,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "",
+                "mvhash": "705C8331233C94BD1DB0EF10DB6BEE40",
+                "320privilege": 0,
+                "lyric": "但愿平生烛光窗影看不厌 云清风暖折煞光年  以你三两真言 骗得她身",
+                "type": "audio"
+            },
+            {
+                "320hash": "64FA1EBC9883C167B5D3E928BD50A5F6",
+                "hash": "5ADE34792464B8A587B81377B42E09AA",
+                "sqfilesize": 13641841,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8538950,
+                "paytype": 0,
+                "filename": "天天吃饭 - 流年兮",
+                "failprocess": 0,
+                "singername": "天天吃饭",
+                "duration": 213,
+                "sqhash": "9A25242D5458E026F958BD20A15B7569",
+                "trans_param": {
+                    "display_rate": 0,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20241030\/20241030003017994995.jpg",
+                    "pay_block_tpl": 1,
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "qualitymap": {
+                        "attr0": 52
+                    },
+                    "free_for_ad": 64,
+                    "language": "国语",
+                    "cid": 444614401,
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "cpy_grade": 22,
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "cpy_level": 1
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 691465308,
+                "filesize": 3415606,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "107344873",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "她本霞光烈焰  被你伞上春雨浇灭  盲目寻觅的支微末节此去经年  得",
+                "type": "audio"
+            },
+            {
+                "320hash": "9F61EC395CC044E1E696BB01C17868F9",
+                "hash": "239A511C2770B50B2ED4543A8BFCD8AA",
+                "sqfilesize": 22592620,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8522350,
+                "paytype": 0,
+                "filename": "啵菜 - 流年兮",
+                "failprocess": 0,
+                "singername": "啵菜",
+                "duration": 213,
+                "sqhash": "2EE15DA0575AEB9BD49A35218E1C2200",
+                "trans_param": {
+                    "display_rate": 0,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20240720\/20240720185132214090.jpg",
+                    "pay_block_tpl": 1,
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "qualitymap": {
+                        "attr0": 116
+                    },
+                    "free_for_ad": 64,
+                    "language": "国语",
+                    "cid": 410128706,
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "cpy_grade": 22,
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "cpy_level": 1
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 656718315,
+                "filesize": 3409038,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "98112937",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "流年兮  作词：千月兔  作曲：潇梦临  编曲：潇梦临  她本霞光烈焰",
+                "type": "audio"
+            },
+            {
+                "320hash": "8929209041675CABA61ABC176F713A28",
+                "hash": "E4E0AD8E900C06D88BE329DE6D5CB474",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8529675,
+                "paytype": 0,
+                "filename": "墨凝 - 流年兮",
+                "failprocess": 0,
+                "singername": "墨凝",
+                "duration": 213,
+                "sqhash": "",
+                "trans_param": {
+                    "display_rate": 0,
+                    "pay_block_tpl": 1,
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "qualitymap": {
+                        "attr0": 20
+                    },
+                    "union_cover": "http:\/\/singerimg.kugou.com\/uploadpic\/softhead\/{size}\/20220902\/20220902105904624788.jpg",
+                    "language": "国语",
+                    "cid": 406034968,
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "cpy_grade": 5,
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "cpy_level": 1
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 651269302,
+                "filesize": 3411973,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "她本霞光烈焰  被你伞上春雨浇灭  盲目寻觅的支微末节此去经年  得",
+                "type": "audio"
+            },
+            {
+                "320hash": "C33A493E07C1F808C8BDFA09672660F5",
+                "hash": "7F952C8841A8090A2B19825863485F63",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8529649,
+                "paytype": 0,
+                "filename": "橘子暖糖 - 流年兮",
+                "failprocess": 0,
+                "singername": "橘子暖糖",
+                "duration": 213,
+                "sqhash": "",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20221210\/20221210100413689103.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "cid": -1,
+                    "language": "国语",
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 20
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 468545247,
+                "filesize": 3411947,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "65565706",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "作曲: 潇梦临  作词: 千月兔  策划：执素兮  编曲：潇梦临  混音：",
+                "type": "audio"
+            },
+            {
+                "320hash": "90890CA4DA7ED736AD076580E321A160",
+                "hash": "7E5BD1E6E232BBF1C5C6FC808B5F3C09",
+                "sqfilesize": 25759800,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8528501,
+                "paytype": 0,
+                "filename": "墨雪卿颜 - 流年兮",
+                "failprocess": 0,
+                "singername": "墨雪卿颜",
+                "duration": 213,
+                "sqhash": "3FDBDBF2C97ED9CAF03BAC481DB41BF7",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220804\/20220804015852143266.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "free_for_ad": 64,
+                    "language": "国语",
+                    "cid": -1,
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 116
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 431731179,
+                "filesize": 3411426,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "59542562",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "<em>流年兮<\/em>  她本霞光烈焰被你伞上春雨浇灭  盲目寻觅的支微末节此去经年得一见  她需风情万千被你一眼烧化冰原  遍体鳞伤难揉进绵软心尖 ",
+                "type": "audio"
+            },
+            {
+                "320hash": "",
+                "hash": "8FE7B1D916FE07623133B5B6CA56101E",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 0,
+                "paytype": 0,
+                "filename": "鱼不御 - 流年兮",
+                "failprocess": 0,
+                "singername": "鱼不御",
+                "duration": 213,
+                "sqhash": "",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220710\/20220710122442576839.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "free_for_ad": 64,
+                    "language": "国语",
+                    "cid": -1,
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 4
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 425859197,
+                "filesize": 3413026,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "58966652",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "<em>流年兮<\/em>  她本霞光烈焰被你伞上春雨浇灭  盲目寻觅的支微末节此去经年得一见  她需风情万千被你一眼烧化冰原  遍体鳞伤难揉进绵软心尖 ",
+                "type": "audio"
+            },
+            {
+                "320hash": "",
+                "hash": "123BB0738CBEF1D2D08660F744B6D4E8",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 0,
+                "paytype": 0,
+                "filename": "懵奇奇 - 流年兮",
+                "failprocess": 0,
+                "singername": "懵奇奇",
+                "duration": 210,
+                "sqhash": "",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20211030\/20211030160012333539.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "free_for_ad": 64,
+                    "language": "国语",
+                    "cid": -1,
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 4
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 393020711,
+                "filesize": 3371405,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "50013954",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "<em>流年兮<\/em>      她本霞光烈焰被你伞上春雨浇灭  盲目寻觅的支微末节此去经年得一见  她需风情万千被你一眼烧化冰原  遍体鳞伤难揉进绵软心尖 ",
+                "type": "audio"
+            },
+            {
+                "320hash": "236C40B80040B07B808C90E205D07144",
+                "hash": "95E459BC29012062CB5C7DC9315E6D99",
+                "sqfilesize": 21827144,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8620502,
+                "paytype": 0,
+                "filename": "景彦淇 - 流年兮",
+                "failprocess": 0,
+                "singername": "景彦淇",
+                "duration": 215,
+                "sqhash": "1A792D5C75C4C19A585399D3716BEF3C",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20211223\/20211223215424804566.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "cid": -1,
+                    "language": "国语",
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 116
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 360286393,
+                "filesize": 3448357,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "51481811",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "景彦淇 - 流年兮  她本霞光烈焰被你伞上春雨浇灭  盲目寻觅的支微",
+                "type": "audio"
+            },
+            {
+                "320hash": "",
+                "hash": "079A52A2460E64D12BED9B2AF636C685",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 0,
+                "paytype": 0,
+                "filename": "颜如玉 - 流年兮",
+                "failprocess": 0,
+                "singername": "颜如玉",
+                "duration": 209,
+                "sqhash": "",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20211203\/20211203135606821858.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "cid": -1,
+                    "language": "国语",
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 4
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 355904851,
+                "filesize": 3350487,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "50903380",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "<em>流年兮<\/em>      她本霞光烈焰被你伞上春雨浇灭  盲目寻觅的支微末节此去经年得一见  她需风情万千被你一眼烧化冰原  遍体鳞伤难揉进绵软心尖 ",
+                "type": "audio"
+            },
+            {
+                "320hash": "A319E9351A5C604F2E2D0E46ABA7A4C3",
+                "hash": "C8772B4219B000B3E5B70E7E47B3282F",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8588387,
+                "paytype": 0,
+                "filename": "玄素灵 - 流年兮",
+                "failprocess": 0,
+                "singername": "玄素灵",
+                "duration": 213,
+                "sqhash": "",
+                "trans_param": {
+                    "cid": -1,
+                    "musicpack_advance": 0,
+                    "cpy_attr0": 0,
+                    "qualitymap": {
+                        "attr0": 20
+                    },
+                    "pay_block_tpl": 1,
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 340744789,
+                "filesize": 3412404,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "她本霞光烈焰  被你伞上春雨浇灭  盲目寻觅的支微末节此去经年  得",
+                "type": "audio"
+            },
+            {
+                "320hash": "3CDBA56E8FA9B7BD2037FF51C183D7F7",
+                "hash": "95BBD8B82C18096115335BA4BF48E526",
+                "sqfilesize": 22136837,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8529546,
+                "paytype": 0,
+                "filename": "君络 - 流年兮",
+                "failprocess": 0,
+                "singername": "君络",
+                "duration": 213,
+                "sqhash": "BD38400FF5F67A947282A2A97AA75442",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20220118\/20220118135344356286.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "cid": -1,
+                    "language": "国语",
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 52
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 322887022,
+                "filesize": 3412409,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "45544972",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "<em>流年兮<\/em>      她本霞光烈焰被你伞上春雨浇灭  盲目寻觅的支微末节此去经年得一见  她需风情万千被你一眼烧化冰原  遍体鳞伤难揉进绵软心尖 ",
+                "type": "audio"
+            },
+            {
+                "320hash": "6F23C9C247C5BAF0D6E1447CF7852586",
+                "hash": "90FA9C8891F0A32B3DE8A4C5E9D897FD",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8539995,
+                "paytype": 0,
+                "filename": "全芋宴 - 流年兮",
+                "failprocess": 0,
+                "singername": "全芋宴",
+                "duration": 213,
+                "sqhash": "",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20201129\/20201129100136524003.jpg",
+                    "cid": -1,
+                    "cpy_attr0": 0,
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "qualitymap": {
+                        "attr0": 20
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 286107186,
+                "filesize": 3416024,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "40939521",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "作词 : 千月兔  作曲 : 潇梦临  流年兮 - 玄觞  词：千月兔  曲：",
+                "type": "audio"
+            },
+            {
+                "320hash": "53085D3E4108900CCB458783CBA9C982",
+                "hash": "F3AD2711E51399A075D6181D64081A99",
+                "sqfilesize": 0,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 9137676,
+                "paytype": 0,
+                "filename": "兮禾lucky - 眷恋",
+                "failprocess": 0,
+                "singername": "兮禾lucky",
+                "duration": 228,
+                "sqhash": "",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20240228\/20240228092903512038.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "cid": -1,
+                    "language": "国语",
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 20
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 606960568,
+                "filesize": 3655097,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "87841673",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "哪怕颠沛过<em>流年<\/em>      兮禾lucky",
+                "type": "audio"
+            },
+            {
+                "320hash": "E9CBCE6A1EECA023C81C8E7651B527A4",
+                "hash": "7914DCBE22DAF0BD77C61D2C865A40FE",
+                "sqfilesize": 22025504,
+                "sqprivilege": 0,
+                "old_cpy": 1,
+                "bitrate": 128,
+                "ownercount": 0,
+                "320filesize": 8540114,
+                "paytype": 0,
+                "filename": "柒柒_JOY - 流年兮",
+                "failprocess": 0,
+                "singername": "柒柒_JOY",
+                "duration": 213,
+                "sqhash": "AAC66E7219B4C656FECD22A791DB8EEB",
+                "trans_param": {
+                    "pay_block_tpl": 1,
+                    "union_cover": "http:\/\/imge.kugou.com\/stdmusic\/{size}\/20200611\/20200611042644744158.jpg",
+                    "classmap": {
+                        "attr0": 100663304
+                    },
+                    "cid": -1,
+                    "language": "国语",
+                    "cpy_attr0": 0,
+                    "ipmap": {
+                        "attr0": 33554432
+                    },
+                    "qualitymap": {
+                        "attr0": 116
+                    },
+                    "musicpack_advance": 0,
+                    "display": 0,
+                    "display_rate": 0
+                },
+                "m4afilesize": 0,
+                "album_audio_id": 260329676,
+                "filesize": 3416143,
+                "extname": "mp3",
+                "privilege": 0,
+                "album_id": "38056087",
+                "mvhash": "",
+                "320privilege": 0,
+                "lyric": "<em>流年兮<\/em>  她本霞光烈焰被你伞上春雨浇灭  盲目寻觅的支微末节此去经年得一见  她需风情万千被你一眼烧化冰原  遍体鳞伤难揉进绵软心尖 ",
+                "type": "audio"
+            }
+        ],
+        "total": 1000
+    },
+    "errcode": 0,
+    "status": 1,
+    "error": ""
+}
